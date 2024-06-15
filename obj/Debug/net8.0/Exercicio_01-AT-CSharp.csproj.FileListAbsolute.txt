@@ -1,0 +1,15 @@
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\bin\Debug\net8.0\Exercicio_01-AT-CSharp.exe
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\bin\Debug\net8.0\Exercicio_01-AT-CSharp.deps.json
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\bin\Debug\net8.0\Exercicio_01-AT-CSharp.runtimeconfig.json
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\bin\Debug\net8.0\Exercicio_01-AT-CSharp.dll
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\bin\Debug\net8.0\Exercicio_01-AT-CSharp.pdb
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\obj\Debug\net8.0\Exercicio_01-AT-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\obj\Debug\net8.0\Exercicio_01-AT-CSharp.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\obj\Debug\net8.0\Exercicio_01-AT-CSharp.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\obj\Debug\net8.0\Exercicio_01-AT-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\obj\Debug\net8.0\Exercicio_01-AT-CSharp.sourcelink.json
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\obj\Debug\net8.0\Exercicio_01-AT-CSharp.dll
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\obj\Debug\net8.0\refint\Exercicio_01-AT-CSharp.dll
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\obj\Debug\net8.0\Exercicio_01-AT-CSharp.pdb
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\obj\Debug\net8.0\Exercicio_01-AT-CSharp.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\AT\Exercicio_01-AT-CSharp\obj\Debug\net8.0\ref\Exercicio_01-AT-CSharp.dll
