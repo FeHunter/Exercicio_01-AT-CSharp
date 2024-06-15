@@ -16,7 +16,6 @@ namespace AtCSharp
 
             Console.Write($"{primeiro} {segundo}");
 
-            // Mostra 10 números apartir do número informado.
             for (int i = 1; i < (nMaximo-1); i++){
                 terceiro = primeiro + segundo;
                 Console.Write($" {terceiro}");
